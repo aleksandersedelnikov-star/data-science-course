@@ -16,7 +16,7 @@
   2. Markdown - for formatted text
   3. Raw - for not formatted text
 </pre>
-<h4>4. Work mode</h4>
+<h4>4. Work modes</h4>
 <pre>
   1. Edit mode (green frame) - edit context
   2. Command Mode (blue frame) - manage cells
